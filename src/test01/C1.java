@@ -7,6 +7,7 @@ public class C1 {
         System.out.println("Merhaba dunya");
 
         System.out.println("Merhaba dunya2");
+        System.out.println("merhaba again");
 
     }
 
