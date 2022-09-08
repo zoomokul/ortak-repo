@@ -6,6 +6,8 @@ public class C1 {
 
         System.out.println("Merhaba dunya");
 
+        System.out.println("Merhaba dunya2");
+
     }
 
 
